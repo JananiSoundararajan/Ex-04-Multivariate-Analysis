@@ -99,3 +99,5 @@ sns.heatmap(df.corr(),annot=True)
 ![OUTPUT](ssc.png)
 ## HEAT MAP
 ![OUTPUT](sshm.png)
+## RESULT
+Hence multivariate exploratory data analysis is performed on the given set of data.
